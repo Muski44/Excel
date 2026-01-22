@@ -6,13 +6,15 @@ This Excel project analyzes taco delivery data to understand order patterns, del
 
   # Data Set
   ---------------------------------------------------------
-  columns       |   	Description
-  ---------------------------------------------------------
-  Order ID	    |    Unique identifier for each order
-  Restaurant    |Name	Name of the restaurant
-  Location	    |Delivery location
-  Order Time	  |Time when the order was placed
-  Delivery Time	|Time when the order was delivered
-  -----------------------------------------------------------
+| **Columns**           | **Description**                   |
+| --------------------- | --------------------------------- |
+| **Order ID**          | Unique identifier for each order  |
+| **Restaurant Name**   | Name of the restaurant            |
+| **Location**          | Delivery location                 |
+| **Order Time**        | Time when the order was placed    |
+| **Delivery Time**     | Time when the order was delivered |
+| **Delivery Duration** | Delivery duration in minutes      |
+
+
 
 
